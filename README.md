@@ -1,2 +1,10 @@
 # safex
 Safex is a SSRF detection and exploit  tool.with its can you detect and exploit faster  created by Milad Safdari
+
+# how to run it ?
+- Download github file 
+- pip3 install requests
+- python3 safex.py 
+- enter your targets direction with ./example/example/targets.txt
+- if you want you can give a custom parameters  by default has parameters
+- run it :)
