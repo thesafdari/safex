@@ -1,5 +1,5 @@
 import requests as req;
-print("Safdx")
+print("Safex")
 print("-------------------------------------------------------")
 print("------------------------------------------------")
 print("-----------------------------------------")
@@ -7,7 +7,7 @@ print("----------------------------------")
 print("---------------------------")
 print("------------------")
 print("---------")
-print("Safdex is an one script to exploite and detect SSRF vulnerbility and created by Milad Safdari");
+print("Safex is an one script to exploite and detect SSRF vulnerbility and created by Milad Safdari");
 a=True;
 while a:
     ipu1 = input("Target address : ")
@@ -73,4 +73,4 @@ while a:
     if (inp2=="e"):
         break;
 print("bay :)")
-exit();milad
+exit();
